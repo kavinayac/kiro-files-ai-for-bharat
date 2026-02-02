@@ -2,7 +2,7 @@
 
 ## Introduction
 
-SamparkAI+ is an agentic, multilingual, voice-first AI civic assistant designed for the AWS AI Bharat Hackathon. The system helps citizens, especially farmers and rural users, discover government schemes, check eligibility, simulate outcomes, and receive step-by-step guidance in low-bandwidth environments through intelligent AI agent orchestration.
+SamparkAI+ is an agentic, multilingual, voice-first AI civic assistant . The system helps citizens, especially farmers and rural users, discover government schemes, check eligibility, simulate outcomes, and receive step-by-step guidance in low-bandwidth environments through intelligent AI agent orchestration.
 
 ## Glossary
 
@@ -165,4 +165,5 @@ SamparkAI+ is an agentic, multilingual, voice-first AI civic assistant designed 
 2. WHEN storing conversation history, THE SamparkAI_Plus SHALL anonymize data and implement automatic deletion policies
 3. WHEN sharing data with government systems, THE SamparkAI_Plus SHALL obtain explicit user consent and log all data transfers
 4. WHEN users request data deletion, THE SamparkAI_Plus SHALL remove all personal information within 30 days
+
 5. WHERE data breaches occur, THE SamparkAI_Plus SHALL immediately notify affected users and implement containment measures
